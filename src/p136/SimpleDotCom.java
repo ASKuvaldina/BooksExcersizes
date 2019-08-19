@@ -18,7 +18,7 @@ public class SimpleDotCom {
                 break;
             }
         }
-        if (numOfHits==locationCells.length){
+        if (numOfHits == locationCells.length) {
             result = "Потопил";
         }
         System.out.println(result);
